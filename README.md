@@ -9,15 +9,19 @@ Confira o projeto desenvolvido em aula [aqui](https://github.com/Gabriela-Silvei
 
 ---
 
-### Desafio do Curso: Contruir um pipeline ETL. 🎯
+### Desafio do Curso: Construir um pipeline ETL. 🎯
 Objetivo: Reimaginar esse processo de ETL. Como aplicar o que aprenderam em um novo domínio de aplicação ? Pensem nas infinitas possibilidades e domínios que podem ser explorados, e deixem a criatividade fluir!
 
 ---
 
 ### Meu Projeto: Conversão de moeda para e-commerce global. 📈✏️
+<br>
 -Contexto: Uma loja local que faz vendas dentro e fora do Brasil.
--Problema: Precisa atualizar os valores de sua loja online para moeda estrangeira de acordo com a cotação atual.
+<br>
+-Problema: É necessário atualizar os valores de sua loja online para moeda estrangeira de acordo com a cotação atual.
+<br>
 -Desenvolvimento: Criar um processo que atualize o banco de dados de acordo com a cotação atual da moeda estrangeira utilizando uma API de cotações em tempo real.
+
 
 ---
 
